@@ -169,6 +169,7 @@
 
 			&__left {
 				@include flex;
+				display: contents;
 				align-items: center;
 
 				&__content {
