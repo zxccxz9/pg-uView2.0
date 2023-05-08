@@ -314,6 +314,7 @@
 
 			&__nav {
 				@include flex;
+				display: contents;
 				position: relative;
 
 				&__item {
