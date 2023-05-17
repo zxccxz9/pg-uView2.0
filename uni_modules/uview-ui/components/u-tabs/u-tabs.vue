@@ -314,8 +314,8 @@
 
 			&__nav {
 				@include flex;
-				display: contents;
 				position: relative;
+				flex: 1;
 
 				&__item {
 					padding: 0 11px;
